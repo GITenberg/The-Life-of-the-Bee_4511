@@ -1,5 +1,5 @@
 _repo: The-Life-of-the-Bee_4511
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: La vie des abeilles. English
 contributor:
   translator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '1460'
     url: http://www.gutenberg.org/2009/agents/1460
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Sutro
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Maeterlinck, Maurice
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/795
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: A philosophical look at and study of bees.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4511#The-Life-of-the-Bee
 gutenberg_bookshelf: Animals-Wild-Insects
 gutenberg_issued: '2003-10-01'
 gutenberg_type: Text
